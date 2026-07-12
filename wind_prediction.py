@@ -19,7 +19,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ====================== 1. 本地数据路径配置 ======================
-# 已适配你桌面的文件路径，使用 r"" 原始字符串避免Windows路径转义报错
+
 DATA_PATHS = {
     "10m": {
         "train": r"C:\Users\LEGION\Desktop\train-00000-of-00001 10m.parquet",
