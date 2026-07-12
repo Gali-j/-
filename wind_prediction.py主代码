@@ -3,7 +3,7 @@
 # 依赖安装：pip install pandas numpy scikit-learn torch matplotlib seaborn scipy pyarrow
 # ==========================================================
 # -*- coding: utf-8 -*-
-pip install pandas numpy scikit-learn torch matplotlib seaborn scipy pyarrow
+
 # ==========================================================
 import os
 import numpy as np
